@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	sharedrepository = 1
+[receive]
+	denyNonFastforwards = true
+[remote "origin"]
+	url = https://github.com/kyung01145/Improve_filesystem_performance_zns.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
