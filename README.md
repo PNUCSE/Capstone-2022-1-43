@@ -42,7 +42,7 @@
 
 <img src = "https://user-images.githubusercontent.com/65112294/196333122-0ac56f37-2446-4b20-a8c9-19c2179852a4.png" width = "90%">
                             
-                            < Figure 3. Amount of Journal/File data from LBA Chunk Number 14 in Zone  >
+                      < Figure 3. Amount of Journal/File data from LBA Chunk Number 14 in Zone  >
 
 
 
