@@ -29,6 +29,7 @@
 
 [1] block I/O가 file system을 거쳐 ZNS의 Zone으로 내려올 때 journal data와 file data의 비율을 측정 및 분석
 
+
 ![image](https://user-images.githubusercontent.com/65112294/196332247-b97c93fd-5757-4d81-989f-3a70e59c41a5.png)
 
 
@@ -51,10 +52,11 @@
 
 
 
-
-
-
-
-
 <!--[![영상 이름](유튜브 영상 썸네일 URL)](유투브 영상 URL)-->
+
+
+
+
+
+
 [![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/zh_gQ_lmLqE/0.jpg)](https://www.youtube.com/watch?v=zh_gQ_lmLqE)    
