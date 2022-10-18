@@ -29,12 +29,12 @@
 
 [1] block I/O가 EXT4 file system을 거쳐 ZNS의 Zone으로 내려올 때 journal data와 file data의 비율을 측정 및 분석
 
-<  Amount of File Data in each Zone >
+                                       <  Amount of File Data in each Zone  >
 <img src = "https://user-images.githubusercontent.com/65112294/196332247-b97c93fd-5757-4d81-989f-3a70e59c41a5.png" width = "90%">
-<  Amount of Journal Data in each Zone > 
+                                       <  Amount of Journal Data in each Zone  > 
 <img src = "https://user-images.githubusercontent.com/65112294/196332937-823b2c04-1ecc-402e-bbd3-c56d7baa2614.png" width = "90%">
 
-< Amount of Journal/File data from LBA Chunk Number 14 in Zone
+                               <  Amount of Journal/File data from LBA Chunk Number 14 in Zone  >
 <img src = "https://user-images.githubusercontent.com/65112294/196333122-0ac56f37-2446-4b20-a8c9-19c2179852a4.png" width = "90%">
 
 
