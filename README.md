@@ -31,6 +31,7 @@
 
                                        <  Amount of File Data in each Zone  >
 <img src = "https://user-images.githubusercontent.com/65112294/196332247-b97c93fd-5757-4d81-989f-3a70e59c41a5.png" width = "90%">
+
                                        <  Amount of Journal Data in each Zone  > 
 <img src = "https://user-images.githubusercontent.com/65112294/196332937-823b2c04-1ecc-402e-bbd3-c56d7baa2614.png" width = "90%">
 
