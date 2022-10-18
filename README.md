@@ -36,10 +36,12 @@
 
 
 <img src = "https://user-images.githubusercontent.com/65112294/196332937-823b2c04-1ecc-402e-bbd3-c56d7baa2614.png" width = "90%">
+                           
                             <  Amount of Journal Data in each Zone  > 
 
 
 <img src = "https://user-images.githubusercontent.com/65112294/196333122-0ac56f37-2446-4b20-a8c9-19c2179852a4.png" width = "90%">
+                            
                             <  Amount of Journal/File data from LBA Chunk Number 14 in Zone  >
 
 
