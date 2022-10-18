@@ -16,10 +16,13 @@ Journal data를 위한 별도의 Random Zone을 만들어 준다면 이러한 Am
 ## 2. 팀 소개
 
 #### 19학번 임경민(gyoung01145@gmail.com)
+###### 역할 : ZNS 논문 분석, 보고서 및 포스터 제작, Kernel 분석, 작업 환경 구축 및 개발
 
 #### 18학번 이선후(seonhu04@naver.com)
-#### 16학번 김상현(sh333kkk@naver.com)
+###### 역할 : ZNS 논문 분석, 보고서 및 포스터 제작, Kernel 분석, 작업 환경 구축 및 개발
 
+#### 16학번 김상현(sh333kkk@naver.com)
+###### 역할 : ZNS 논문 분석, kernel 분석
 
 
 
