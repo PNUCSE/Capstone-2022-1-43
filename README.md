@@ -31,7 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/65112294/196332247-b97c93fd-5757-4d81-989f-3a70e59c41a5.png)
 
-<!-- Zone 별 File Data fio 수 -->
+<  Zone 별 File Data fio 수 >
 
 
 
