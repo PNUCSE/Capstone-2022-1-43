@@ -27,12 +27,11 @@
 
 ## 3. 프로젝트 진행 과정
 
-[1] block I/O가 file system을 거쳐 ZNS의 Zone으로 내려올 때 journal data와 file data의 비율을 측정 및 분석
-
+[1] block I/O가 EXT4 file system을 거쳐 ZNS의 Zone으로 내려올 때 journal data와 file data의 비율을 측정 및 분석
 
 ![image](https://user-images.githubusercontent.com/65112294/196332247-b97c93fd-5757-4d81-989f-3a70e59c41a5.png)
 
-
+<!-- Zone 별 File Data fio 수 -->
 
 
 
