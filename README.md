@@ -5,13 +5,13 @@
 
 본 프로젝트는 ZNS 상에서 EXT4 file system을 타겟으로 하여 Zone 분리를 통해 성능을 개선을 목표로 한다.
 
-block I/O가 file system을 거쳐 ZNS의 Zone으로 내려올 때 journal data와 file data의 비율을 측정 및 분석.
+[1] block I/O가 file system을 거쳐 ZNS의 Zone으로 내려올 때 journal data와 file data의 비율을 측정 및 분석.
 
-Zone reclaim이 발생했을 시, valid data의 copy양을 측정 및 분석
+[2] Zone reclaim이 발생했을 시, valid data의 copy양을 측정 및 분석
 
-EXT4 file system journaling의 특성과 ZNS상에서의 Zone reclaim 특성의 충돌로 인한 Write Amplification이 발생 즉 Overhead로 인한 Performance 저하
+[3] EXT4 file system journaling의 특성과 ZNS상에서의 Zone reclaim 특성의 충돌로 인한 Write Amplification이 발생 즉 Overhead로 인한 Performance 저하
 
-Journal data를 위한 별도의 Random Zone을 만들어 준다면 이러한 Amplification을 피할 수 있고 그러므로 Performance 향상을 목표로 본 프로젝트를 진행한다.
+[4] Journal data를 위한 별도의 Random Zone을 만들어 준다면 이러한 Amplification을 피할 수 있고 그러므로 Performance 향상을 목표로 본 프로젝트를 진행한다.
 
 ## 2. 팀 소개
 
@@ -23,6 +23,36 @@ Journal data를 위한 별도의 Random Zone을 만들어 준다면 이러한 Am
 
 #### 16학번 김상현(sh333kkk@naver.com)
 ###### 역할 : ZNS 논문 분석, kernel 분석
+
+
+## 3. 프로젝트 진행 과정
+
+[1] block I/O가 file system을 거쳐 ZNS의 Zone으로 내려올 때 journal data와 file data의 비율을 측정 및 분석
+
+![image](https://user-images.githubusercontent.com/65112294/196332247-b97c93fd-5757-4d81-989f-3a70e59c41a5.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
