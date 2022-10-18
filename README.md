@@ -1,4 +1,6 @@
-# dm-zoned device mapper target (dm-zoned), ZNS 상에서 Zone 분리를 통한 성능 평가 및 개선 
+# ZNS 상에서 Zone 분리를 통한 성능 개선 연구, dm-zoned
+
+
 
 
 
